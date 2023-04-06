@@ -1,2 +1,2 @@
 # hw_generative_models
-Homework for generative models course
+Mini-projects for generative models course
