@@ -1,4 +1,4 @@
-# hw_generative_models
+# Generative models
 Mini-projects for generative models course
 
 1: Autoregressive models
